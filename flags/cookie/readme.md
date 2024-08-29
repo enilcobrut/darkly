@@ -1,0 +1,1 @@
+check the cookie info then decrypt then find its false then crypt true then change the value and you get the flag

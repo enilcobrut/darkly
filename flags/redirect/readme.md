@@ -1,0 +1,1 @@
+http://localhost:8080/index.php?page=redirect&site=https://evil.com
